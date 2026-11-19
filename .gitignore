@@ -1,0 +1,84 @@
+
+# =================================
+# Xilinx ISE generated directories
+# =================================
+
+xst/
+_xmsgs/
+isim/
+impact/
+iseconfig/
+
+# =================================
+# Xilinx ISE generated files
+# =================================
+
+*.ngc
+*.ngd
+*.ncd
+*.ngm
+*.bit
+*.bgn
+*.drc
+*.mrp
+*.par
+*.pcf
+*.ptwx
+*.unroutes
+*.usage
+*.xrpt
+*.wdb
+*.vcd
+*.bld
+*.cmd_log
+*.log
+*.jou
+
+# =================================
+# Pico SDK / CMake build
+# =================================
+
+build/
+cmake-build-*/
+
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# =================================
+# Pico firmware generated files
+# =================================
+
+*.elf
+*.uf2
+*.hex
+*.bin
+*.map
+*.dis
+
+# =================================
+# Python generated files
+# =================================
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# =================================
+# IDE and editor
+# =================================
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =================================
+# OS generated files
+# =================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
